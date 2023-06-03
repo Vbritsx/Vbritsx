@@ -1,6 +1,5 @@
 ### Hi there 👋, (**Olá! Sou Victor**)
-#### Analista de dados
-![Analista de dados](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Tenho 27 anos e sou um analista de dados apaixonado pelo poder das análises e pela contribuição que elas trazem para a tomada de decisões. Atualmente, estou desempenhando o papel de analista de dados e desfrutando de cada momento nessa área.
 
