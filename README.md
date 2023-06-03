@@ -1,17 +1,26 @@
-<h1 align="center">Olá!Eu sou Victor</h1>
-<h3 align="center">Analista de dados</h3>
+### Hi there 👋, (**Olá! Sou Victor**)
+#### Analista de dados
+![Analista de dados](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vbritsx" alt="vbritsx" /></a> </p>
+Tenho 27 anos e sou um analista de dados apaixonado pelo poder das análises e pela contribuição que elas trazem para a tomada de decisões. Atualmente, estou desempenhando o papel de analista de dados e desfrutando de cada momento nessa área.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/victor-brito96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-brito96/" height="30" width="40" /></a>
-<a href="https://instagram.com/victorbrits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victorbrits" height="30" width="40" /></a>
-</p>
+Através da análise de dados, sou capaz de gerar insights e ideias valiosas que auxiliam na tomada de decisões estratégicas. Tenho um forte desejo de contribuir para o sucesso das organizações, fornecendo informações relevantes e ajudando-as a atingir seus objetivos.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Embora esteja satisfeito com meu papel atual, meu objetivo principal é me tornar um engenheiro de dados. Estou comprometido em aprimorar minhas habilidades técnicas e conhecimentos em engenharia de dados. Desejo enfrentar desafios mais complexos, lidar com grandes volumes de dados e criar soluções inovadoras para as empresas.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbritsx&show_icons=true&locale=en&layout=compact" alt="vbritsx" /></p>
+Skills: PYTHON / SQL / DATAVIZ
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vbritsx&show_icons=true&locale=en" alt="vbritsx" /></p>
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vbritsx)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vbritsx)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vbritsx)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vbritsx&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vbritsx)  
+
+![GitHub metrics](https://metrics.lecoq.io/Vbritsx)  
+
