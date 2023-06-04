@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Vbritsx/Vbritsx/blob/main/assets/header-github.gif.gif" alt="Oi, eu sou o Victor">
+  <img src="https://github.com/Vbritsx/Vbritsx/blob/main/assets/victorheader.gif" alt="Oi, eu sou o Victor">
 </p>
 
 
@@ -8,8 +8,6 @@ Tenho 27 anos e sou um analista de dados apaixonado pelo poder das análises e p
 Através da análise de dados, sou capaz de gerar insights e ideias valiosas que auxiliam na tomada de decisões estratégicas. Tenho um forte desejo de contribuir para o sucesso das organizações, fornecendo informações relevantes e ajudando-as a atingir seus objetivos.
 
 Embora esteja satisfeito com meu papel atual, meu objetivo principal é me tornar um engenheiro de dados. Estou comprometido em aprimorar minhas habilidades técnicas e conhecimentos em engenharia de dados. Desejo enfrentar desafios mais complexos, lidar com grandes volumes de dados e criar soluções inovadoras para as empresas.
-
-Skills: PYTHON / SQL / DATAVIZ
 
 
 
@@ -20,8 +18,6 @@ Skills: PYTHON / SQL / DATAVIZ
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vbritsx)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vbritsx&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vbritsx)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Vbritsx)  
 
