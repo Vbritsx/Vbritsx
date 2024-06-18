@@ -3,7 +3,7 @@
 </p>
 
 
-Tenho 27 anos e sou um analista de dados apaixonado pelo poder das análises e pela contribuição que elas trazem para a tomada de decisões. Atualmente, estou desempenhando o papel de analista de dados e desfrutando de cada momento nessa área, tenho também um breve conhecimento em front end. 
+Tenho 28 anos e sou um analista de dados apaixonado pelo poder das análises e pela contribuição que elas trazem para a tomada de decisões. Atualmente, estou desempenhando o papel de analista de dados e desfrutando de cada momento nessa área, tenho também um breve conhecimento em front end. 
 
 Através da análise de dados, sou capaz de gerar insights e ideias valiosas que auxiliam na tomada de decisões estratégicas. Tenho um forte desejo de contribuir para o sucesso das organizações, fornecendo informações relevantes e ajudando-as a atingir seus objetivos.
 
